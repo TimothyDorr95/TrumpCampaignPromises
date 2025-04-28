@@ -7,3 +7,6 @@
 # Python
 __pycache__/
 *.pyc
+
+#BiasDetectorData
+**/Bias_Detector_Data/
