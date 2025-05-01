@@ -10,3 +10,6 @@ __pycache__/
 
 #BiasDetectorData
 **/Bias_Detector_Data/
+
+#large files
+**/LargeFiles/
