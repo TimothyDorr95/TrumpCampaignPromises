@@ -13,3 +13,6 @@ __pycache__/
 
 #large files
 **/LargeFiles/
+
+#embeddings of trump quote
+**/Quotes/trump_quotes_embeddings.parquet
