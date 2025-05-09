@@ -16,3 +16,6 @@ __pycache__/
 
 #embeddings of trump quote
 **/Quotes/trump_quotes_embeddings.parquet
+
+#whole quotes folder
+**/Quotes
